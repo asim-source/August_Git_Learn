@@ -15,5 +15,6 @@ function multiply(a,b){
 }
 multiply(2,3);
 multiply(3,3);
+multiply(2,3);
 
   
